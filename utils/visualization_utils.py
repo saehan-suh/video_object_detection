@@ -65,7 +65,6 @@ STANDARD_COLORS = [
     'WhiteSmoke', 'Yellow', 'YellowGreen'
 ]
 
-
 def save_image_array_as_png(image, output_path):
   """Saves an image (represented as a numpy array) to PNG.
 
